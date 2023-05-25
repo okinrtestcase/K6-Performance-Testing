@@ -24,6 +24,7 @@ Let's begin our attempt at Performance Testing with K6. Please ensure that the f
   * Then See the summary report by open the `[file_name].html` on our browser
 
 ## 📈 Output
+After running the test, the output or summary report will be displayed as follows:
  ![Output of Performance Testing with K6](https://github.com/okinrtestcase/K6-Performance-Testing/blob/main/output.png)
 
 ## 📫 Contact me
