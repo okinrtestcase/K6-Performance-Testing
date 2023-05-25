@@ -24,7 +24,7 @@ Let's begin our attempt at Performance Testing with K6. Please ensure that the f
   * Then See the summary report by open the `[file_name].html` on our browser
 
 ## 📈 Output
- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://im.ge/i/hqKxkq)
+ ![Output of Performance Testing with K6](https://github.com/okinrtestcase/K6-Performance-Testing/blob/main/output.png)
 
 ## 📫 Contact me
 Contact me for questions related to Test Automation and Software Testing, mail me `okinr.testcase@gmail.com` or see another project at [Github Pages](https://github.com/okinrtestcase)
