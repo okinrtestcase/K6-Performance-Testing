@@ -9,7 +9,7 @@ Performance testing is a type of software testing that focuses on evaluating the
   * htmlReport and Summary of Performance Testing after Run
 
 ## 🔥 Getting Started
-Let's begin our attempt at REST API automation testing with Selenium Python. Please ensure that the following requirements are ready prepared.
+Let's begin our attempt at Performance Testing with K6. Please ensure that the following requirements are ready prepared.
   1. K6 ready installed on your computer
   2. View online documntation on [Documentation](https://k6.io/docs/)
   3. `https://github.com/benc-uk/k6-reporter` view documnetation then copy script to automatically write report/summary
